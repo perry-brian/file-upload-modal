@@ -1,6 +1,6 @@
 # File Upload Modal(Assessment)
 
-Tech Stacks: React, Vite, Material UI
+Tech Stacks: React, Vite, Material UI \
 Node Version: > 18(Required)
 
 ## Available Scripts
